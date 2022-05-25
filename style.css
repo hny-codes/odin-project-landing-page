@@ -38,7 +38,7 @@
 }
 
 .header-text {
-    max-width: 550px;
+  max-width: 550px;
 }
 
 .header-text h1 {
@@ -52,12 +52,12 @@
 }
 
 .header-text button {
-    background-color: #3882F6;
-    color: #f9faf8;
-    border: none;
-    border-radius: 10px;
-    padding: 10px 40px;
-    margin: 15px auto;
-    font-size: 20px;
-    font-weight: bold;
+  background-color: #3882f6;
+  color: #f9faf8;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 40px;
+  margin: 15px auto;
+  font-size: 20px;
+  font-weight: bold;
 }
