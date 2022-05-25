@@ -25,3 +25,39 @@
   color: #f9faf8;
   font-size: 18px;
 }
+
+.header {
+  background-color: #1f2937;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #f9faf8;
+  padding: 20px 100px;
+  width: 100%;
+  height: 384px;
+}
+
+.header-text {
+    max-width: 550px;
+}
+
+.header-text h1 {
+  font-size: 48px;
+  font-weight: bolder;
+}
+
+.header-text p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.header-text button {
+    background-color: #3882F6;
+    color: #f9faf8;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 40px;
+    margin: 15px auto;
+    font-size: 20px;
+    font-weight: bold;
+}
