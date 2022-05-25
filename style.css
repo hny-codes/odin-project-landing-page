@@ -164,3 +164,14 @@
   font-size: 20px;
   font-weight: bold;
 }
+
+.footer-container {
+  background-color: #1f2937;
+  color: #f9faf8;
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-spacing: 5px;
+}
