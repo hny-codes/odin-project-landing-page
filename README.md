@@ -1,7 +1,7 @@
 # odin-project-landing-page
 
 ## Description
-This is a project from The Odin Project from the Flexbox course.
+This is a project from the Flexbox course by The Odin Project.
 
 ## Task
 Create a demo landing page from a given design that will be provided. 
