@@ -4,7 +4,7 @@
 This is a project from The Odin Project from the Flexbox course.
 
 ## Task
-Create a landing page from a given design that will be provided. 
+Create a demo landing page from a given design that will be provided. 
 
 ## Skills required
 - Box model 
